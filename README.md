@@ -6,6 +6,7 @@
 
 ```
 git status
-git add git commit
+git add
+git commit
 ```
 hello github 
